@@ -51,14 +51,14 @@
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
                         <li><a runat="server" href="~/">Home</a></li>
-                        <li><a runat="server" href="~/description">Project Description</a></li>
-                        <li><a runat="server" href="~/prdgraph">Production Graph</a></li>
-                        <li><a runat="server" href="~/prdscatter">Production Scatter Plot</a></li>
+                        <li><a runat="server" href="~/description">Description</a></li>
+                        <li><a runat="server" href="~/prdgraph">Prod-Graph</a></li>
+                        <li><a runat="server" href="~/prdscatter">Prod-Scatter Plot</a></li>
                         <li><a runat="server" href="~/distribution">Distribution</a></li>
                         <li><a runat="server" href="~/decomposition">Decomposition</a></li>
-                        <li><a runat="server" href="~/meanstddev">Mean-Std.Deviation</a></li>
+                        <li><a runat="server" href="~/meanstddev">Mean-Std-Dev</a></li>
                         <li><a runat="server" href="~/autocor">Autocorrelation</a></li>
-                        <li><a runat="server" href="~/forecast">Production Forecast</a></li>
+                        <li><a runat="server" href="~/forecast">Prod-Forecast</a></li>
                         <li><a runat="server" href="~/prjdetails">Project Details</a></li>
                     </ul>
                 </div>
